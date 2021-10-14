@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @shivajasti
-- 👀 I’m interested to learn and discuss python.
-- 🌱 I’m currently learning programming languages.
+- 👋 Hi, I’m @shivajasti.
 - 💞️ I’m looking to collaborate on learnings and discussions related to coding.
 - 📫 Can reach me on twitter ..
 
